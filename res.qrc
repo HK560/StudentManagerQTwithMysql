@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/png">
+        <file alias="skadi">ed.jpg</file>
+    </qresource>
+</RCC>
